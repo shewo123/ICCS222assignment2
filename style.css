@@ -1,0 +1,45 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65), rgba(0,0,0,0.38)), url("blankets.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    width: 80px;
+    float:right;
+    text-align: center;
+    border: 1px solid white;
+    background-color: red;
+    opacity: 0.8;
+    font-family: Arial;
+    padding: 7px;
+    margin-right: 4px;
+}
+ul li{display: inline-block;
+}
+ul li a{text-decoration: none; color: white;}
+ .text {background-color: blue;}
+ ul li:hover{ background-color: blue;}
+
+h3{ position: -webkit-sticky;
+left: 10%;
+top: 20%;
+color: orangered;
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: uppercase; text-shadow: 1px 1px 1px;
+}
+
+h2{
+    position: -webkit-sticky;
+    left: 10%;
+    top: 20%;
+    color: royalblue;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase; text-shadow: 1px 1px 1px;  
+}
+.text{position: -webkit-sticky;
+top: 66%;
+color: rgb(red, green, blue);}
