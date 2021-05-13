@@ -18,8 +18,7 @@ ul{
 }
 ul li a{text-decoration: none; color: white;}
  .text {background-color: blue;}
- ul li:hover{ background-color: blue;
- position: inline-block;}
+ ul li:hover{ background-color: blue;}
  
 
 h3{ position: -webkit-sticky;
